@@ -53,6 +53,8 @@
 - <a name="google-galileo-search">3</a>: https://encrypted.google.com/#q=site:shared.galileo-app.com/static/map/&filter=0
 - <a name="johanberonius-gist">4</a>: https://gist.github.com/johanberonius
 
+TODO : https://custom-map-source.appspot.com/
+
 # Contributing
 
 You may propose changes to this list via pull-request or issues.
