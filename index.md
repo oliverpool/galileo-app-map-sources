@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # List of map sources usable in the Galileo App
 
 ## Global maps
