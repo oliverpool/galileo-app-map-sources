@@ -1,6 +1,3 @@
----
-layout: index
----
 
 ## Global maps
 
@@ -27,7 +24,7 @@ layout: index
 
 ---
 
-- <a name="galileo-app-blog">1</a>: [http://blog.galileo-app.com/post/46639227132/spilling-the-beans]
-- <a name="nztopomaps">2</a>: [http://www.nztopomaps.com/offline]
-- <a name="google-galileo-search">3</a>: [https://encrypted.google.com/#q=site:shared.galileo-app.com/static/map/&filter=0]
+- <a name="galileo-app-blog">1</a>: http://blog.galileo-app.com/post/46639227132/spilling-the-beans
+- <a name="nztopomaps">2</a>: http://www.nztopomaps.com/offline
+- <a name="google-galileo-search">3</a>: https://encrypted.google.com/#q=site:shared.galileo-app.com/static/map/&filter=0
 
