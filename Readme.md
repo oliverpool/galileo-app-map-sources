@@ -38,7 +38,7 @@
 ## Sweden
 
 * [Hitta (HD)](https://gist.github.com/johanberonius/11192a28e78e5fe8a3f7) <sup>[4](#johanberonius-gist)</sup>
-* [Hitta satellite (HD)](https://gist.github.com/johanberonius/92c148e2fc976f2afd13) <sup>[4](#johanberonius-gist)</sup>
+* [Hitta satellite](https://gist.github.com/johanberonius/92c148e2fc976f2afd13) <sup>[4](#johanberonius-gist)</sup>
 * [Hitta terrain (HD)](https://gist.github.com/johanberonius/929439071315e375495c) <sup>[4](#johanberonius-gist)</sup>
 
 ## United States
